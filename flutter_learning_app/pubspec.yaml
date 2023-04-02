@@ -35,15 +35,18 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   flutter_native_splash: ^2.2.19
-  lottie: ^2.3.1
-  google_fonts: ^4.0.3
+  # lottie: ^2.3.1
+  # google_fonts: ^4.0.3
 
 flutter_native_splash:
   android: true #androidの時にスプラッシュ画面を表示
   ios: true #iosの時にスプラッシュ画面を表示
   web: true #webの時にスプラッシュ画面を表示
-  color: "#1e90ff" #背景色の選択
-  image: "assets/images/flutter.png" #表示させる画像を選択
+  color: "#f0f8ff" #背景色の選択
+  image: "assets/images/Frawers.png" #表示させる画像を選択
+  ios_content_mode: center #アイコンを真ん中に配置
+  branding: "assets/images/IRIS.png" #会社のロゴを表示
+  branding_mode: bottom #会社のロゴを下に配置
 
 dev_dependencies:
   flutter_test:
