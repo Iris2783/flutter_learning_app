@@ -11,6 +11,10 @@ Irisのロゴをスプラッシュ画面に著作権として表示
 　Flutterのロゴを使うか？
 　ロゴは自作してみる？
 　アニメーションをつけてみる
+ 
+ 参考にしたGit
+ 
+ https://github.com/flutterfromscratch/dynamic_flutter_intro?ref=morioh.com&utm_source=morioh.com
 
 
 
